@@ -1,0 +1,10 @@
+ja:
+ activerecord:
+  models:
+   task: タスク
+  attributes:
+    task:
+      title: タイトル
+      start: 開始日
+      finish: 終了日
+      allday: 終日
